@@ -21,8 +21,8 @@
 #include "config_led.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x4453
-#define PRODUCT_ID      0x6060
+#define VENDOR_ID       0x0C45
+#define PRODUCT_ID      0x5004
 #define DEVICE_VER      0x0001
 
 #define MANUFACTURER    Keychron
