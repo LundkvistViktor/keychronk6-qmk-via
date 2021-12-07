@@ -3,7 +3,9 @@ Personal repository containing my keymap for my keyboard.
 
 If you want to use it for yourself, build the firmware included in this repository, please see https://github.com/SonixQMK/qmk_firmware and https://github.com/CanUnesi/QMK-on-K6
 
-Please note that you currently cannot run both VIA and openRGB at the same time.
+<del>Please note that you currently cannot run both VIA and openRGB at the same time.</del>
+
+Edit: VIA and openRGB at the same time is now possible but requires a custom fork of qmk, https://github.com/LundkvistViktor/qmk_firmware
 
 
 ## Enabling VIA
